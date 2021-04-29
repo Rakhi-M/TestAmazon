@@ -1,0 +1,10 @@
+src\amazon\qa\pages\CartDetailPage.class
+com\amazon\qa\util\TestUtil.class
+src\amazon\qa\pages\CartPage.class
+src\amazon\qa\pages\HomePage.class
+src\amazon\qa\pages\ProductListingPage.class
+src\amazon\qa\pages\ProductDetailPage.class
+src\amazon\qa\pages\SigninPage.class
+com\amazon\qa\util\report\ExtentReportListener.class
+src\amazon\qa\pages\CheckoutPage.class
+com\amazon\qa\base\TestBase.class
